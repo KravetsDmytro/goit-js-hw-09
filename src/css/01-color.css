@@ -1,0 +1,16 @@
+button {
+  min-width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgb(228, 153, 22);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border: 0px;
+  border-radius: 4px;
+  font-family: inherit;
+  font-weight: 500;
+  font-size: 16px;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  margin-left: 16px;
+  transition: background 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
