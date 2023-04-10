@@ -1,5 +1,7 @@
 button {
   min-width: 100px;
+  display: block;
+margin-bottom: 25px;
   margin-left: auto;
   margin-right: auto;
   background: rgb(228, 153, 22);
@@ -11,6 +13,5 @@ button {
   font-size: 16px;
   text-transform: uppercase;
   padding: 8px 16px;
-  margin-left: 16px;
   transition: background 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
